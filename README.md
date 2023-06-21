@@ -8,3 +8,6 @@
 Piper2818/Piper2818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Scientific Computing Final Project: 
+https://github.com/Piper2818/Scientific-Computing.git
