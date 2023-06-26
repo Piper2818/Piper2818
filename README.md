@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Piper2818
-- 👀 I’m interested in and have a passion for software Development
+- 👀 I’m interested in and have a passion for Software Development and below are a few examples of projects/ assignments I have
+- worked on in the past for school and also just for fun!
 - 🌱 I’m currently looking for a job that will allow me to apply and improve my skills. 
 - 📫 You can reach me by email or over the phone with the information found on my resume. 
 
