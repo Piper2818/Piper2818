@@ -9,24 +9,31 @@ Piper2818/Piper2818 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Scientific Computing Final Project: 
-https://github.com/Piper2818/Scientific-Computing.git
+School Projects: 
 
-RGB LED: 
+RGB LED (Python): 
 https://github.com/Piper2818/RGB-LED.git
 
-Force-Sensitive Resistor: 
+Force-Sensitive Resistor (Python): 
 https://github.com/Piper2818/Force-Sensitive-Resistor.git
 
-CrossWalk: 
+CrossWalk (Python): 
 https://github.com/Piper2818/Cross-Walk.git
 
-Physical Computing Car Project: 
+Physical Computing Car Project (Python): 
 https://github.com/Piper2818/Car-Project.git
 
-Finite Element Analysis Project: 
+Finite Element Analysis Project (MATLAB): 
 https://github.com/Piper2818/FEA.git
 
-System Dynamics Pendulum: 
+System Dynamics Pendulum (MATLAB): 
 https://github.com/Piper2818/System-Dynamics-Pendulum-.git
+
+Scientific Computing Final Project (MATLAB): 
+https://github.com/Piper2818/Scientific-Computing.git
+
+
+Personal Projects: 
+
+Hangman (Python): 
 
