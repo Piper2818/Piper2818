@@ -35,12 +35,13 @@ https://github.com/Piper2818/Scientific-Computing.git
 
 Personal Projects: 
 
-Graduation Cap (Python/Java): 
+Graduation Cap (Python/Java): https://github.com/Piper2818/Graduation-Cap.git
 
 
                                                             In Progress Projects 
 
 School Projects: 
+
 *these are projects that I am revisitng now that I am out of school* 
 
 COSC 2020 Project One: 
