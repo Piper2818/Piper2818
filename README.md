@@ -8,7 +8,7 @@
 Piper2818/Piper2818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+                                                            Finished Projects 
 School Projects: 
 
 RGB LED (Python): 
@@ -33,6 +33,12 @@ Scientific Computing Final Project (MATLAB):
 https://github.com/Piper2818/Scientific-Computing.git
 
 
+Personal Projects: 
+
+Graduation Cap (Python/Java): 
+
+
+                                                            In Progress Projects 
 Personal Projects: 
 
 Hangman (Python): 
