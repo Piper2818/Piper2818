@@ -39,6 +39,13 @@ Graduation Cap (Python/Java):
 
 
                                                             In Progress Projects 
+
+School Projects: 
+*these are projects that I am revisitng now that I am out of school* 
+
+COSC 2020 Project One: 
+https://github.com/Piper2818/COSC-2020-Project-One.git
+
 Personal Projects: 
 
 Hangman (Python): 
